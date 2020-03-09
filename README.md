@@ -14,11 +14,11 @@ O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/
 
 * **Primeiros Passos:**
   * 01 - Data Science: Primeiros Passos
-  * 02 - Data Science: Introdução ao Pandas
+  * [02 - Data Science: Introdução ao Pandas](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/01-DataScience/02_Data_Science_Introdu%C3%A7%C3%A3o_ao_Pandas.ipynb)
   
 * **Modelos de Data Science:**
   * 03 - Data analysis: introdução a séries temporais
-  * 04 - Data Science: Modelo e Regressão Linear
+  * [04 - Data Science: Modelo e Regressão Linear](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/01-DataScience/04_Regress%C3%A3o_Linear.ipynb)
   * 05 - Data Science: Regressão Linear, assimetria, statsmodel
 
 * **Visualização de Dados:**
@@ -77,4 +77,4 @@ A pasta "03 - Data Science Na Prática (DSNP)" é resultado dos projetos realiza
   * Notas de Aula - Módulo 07
   
   
-O repositório aumentará o seu tamanho de acordo com as realizações dos cursos. Quaisquer dúvidas me chame no [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/)
+O repositório aumentará o seu tamanho de acordo com as realizações dos cursos. Qualquer duvida me chame no [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/)
