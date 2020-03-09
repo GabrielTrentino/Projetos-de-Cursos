@@ -10,6 +10,8 @@ Na pasta ["00 - Img"](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree
 ## Pasta 01 - Data Science:
 A pasta ["01 - Data Science"](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree/master/01-DataScience) é resultado dos estudos dos cursos online disponibilizado pela [Alura](https://www.alura.com.br/cursos-online-data-science/data-science). Essa formação apresenta informações gerais e básicas para o ingresso em Data Science, tais como: análise de dados, estatística, modelagem e visualização na prática.
 
+O termo Data Science surge da junção de duas áreas: Data Mining (Mineração de Dados) com Computer Science (Ciências da Computação). De forma enxuta, é uma ciência que capta e processa um grande volume de informações (dados) para gerar novas visões e percepções do objeto estudado.
+
 O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/01-DataScience/README.md) dessa pasta terá um resumo do que é passado nos cursos presentes nessa pasta.
 
 * **Primeiros Passos:**
@@ -30,6 +32,12 @@ O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/
 
 ## Pasta 02 - Machine Learning:
 A pasta ["02 - Machine Learning"](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree/master/02-MachineLearning) é resultado dos estudos dos cursos online disponibilizado pela [Alura](https://www.alura.com.br/formacao-machine-learning). Essa formação apresenta informações gerais e básicas para o ingresso em Machine Learning, tais como: classificação de clientes, processamento de linguagem natural (NLP), Deep Learning e validação e otimização de modelos.
+
+Machine Learning ou Aprendizado de Máquina é uma sub-área do Data Science em que temos por objetivo analisar e avaliar comportamentos do passado para conseguir predizer ou classificar comportamentos futuros. O Machine Learning utiliza de algoritmos supervisionados, não supervisionados ou recorrentes para prever o comportamento de seu Dataset.
+
+Algortimos supervisionados possuem uma classe (ou variável discriminante) que delimita se a Instância (entrada de valores ou simplesmente a linha do Dataset) é pertecente ou não à um grupo. Isto é, os algortimos supervisionados necessitam que o Dataset contenha uma variável que determine se uma pessoa é boa compradora ou não (1 ou 0, respectivamente), por exemplo.
+
+Algoritmos Não-Supervisionados não necessitam dessa interferência humana para a identificação de padrões. Os algoritmos mais utilizados são os de clusterização ou algoritmos que reduzem a dimensão do Dataset. 
 
 O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/02-MachineLearning/README.md) dessa pasta terá um resumo do que é passado nos cursos presentes nessa pasta.
 
@@ -77,4 +85,4 @@ A pasta "03 - Data Science Na Prática (DSNP)" é resultado dos projetos realiza
   * Notas de Aula - Módulo 07
   
   
-O repositório aumentará o seu tamanho de acordo com as realizações dos cursos. Qualquer duvida me chame no [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/)
+O repositório aumentará o seu tamanho de acordo com as realizações dos cursos. E claro, aceito recomendações de cursos, livros ou vídeos! Qualquer duvida me chame no [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/).
