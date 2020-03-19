@@ -1,3 +1,5 @@
+![Escola de Data Science](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/04-Escola%20de%20Data%20Science.png?raw=true)
+
 # **Pasta 04 - Escola de Data Science:**
 
 Nessa pasta estarão presentes todas as aulas da Escola de Data Science juntamente com as suas anotações e informações relevantes sobre a aula. A Escola de Data Science é ministrada pelo professor [Carlos Melo](https://www.linkedin.com/in/carlosfab/) pela plataforma [Escola de Data Science](https://escola.sigmoidal.ai/).
