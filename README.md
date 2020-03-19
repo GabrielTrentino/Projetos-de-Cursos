@@ -71,6 +71,7 @@ A pasta "03 - Data Science Na Prática (DSNP)" é resultado dos projetos realiza
   
 * **Módulo 3 - Visualizando Dados**
   * Notas de Aula - Módulo 03
+  * [Doenças Cardíacas - Data Visualization](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/03_DataVisualization_Doen%C3%A7asCardiacas.ipynb)
   
 * **Módulo 4 - Machine Learning**
   * Notas de Aula - Módulo 04
@@ -84,5 +85,11 @@ A pasta "03 - Data Science Na Prática (DSNP)" é resultado dos projetos realiza
 * **Módulo 7 - Construindo Dashboards**
   * Notas de Aula - Módulo 07
   
+## Pasta 04 - Escola de Data Science:
+A pasta "04 - Escola de Data Science" é resultado dos projetos realizados durante as aulas da Escola de DataScience do professor [Carlos Melo](https://www.linkedin.com/in/carlosfab/).
+* Aula 001: Séries Temporais - Parte 1.
+* Aula 002: Séries Temporais - Parte 2.
+* Aula 003: Séries Temporais - Parte 3.
+* Aula 004: Redes Neurais - Parte 1.
   
 O repositório aumentará o seu tamanho de acordo com as realizações dos cursos. E claro, aceito recomendações de cursos, livros ou vídeos! Qualquer duvida me chame no [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/).
