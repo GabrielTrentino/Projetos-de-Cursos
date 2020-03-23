@@ -47,3 +47,15 @@ Essa aula foi extreada no dia 05 de março de 2020 às 21h pelo [link](https://s
 * Séries Estacionárias.
   * **Teste de Dickey - Fuller.**
   * Hipótese Nula e Alternativa.
+
+## **Aula 003 - Séries Temporais - Parte 3: Testes Estatístico e ARIMA.**
+
+[LINK DO NOTEBOOK](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula003_S%C3%A9riesTemporais.ipynb)
+
+Essa aula foi extreada no dia 12 de março de 2020 às 21h pelo [link](https://sigmoidal.memberkit.com.br/2565-escola-de-data-science/143581-aula-003-series-temporais-testes-estatisticos-e-arima). Nessa terceira aula revemos a aplicação do Teste Dickey Fuller Aumentado (ADF) e buscamos **transformar uma Série Temporal para Estacionária** aplicando logaritmo, diferenciação e pelo **modelo ARIMA.**
+
+**ARIMA** é um dos modelos utilizados na estatística para prever comportamentos de uma Série Temporal. Nessa aula foi visto:
+
+* Teste Dickey Fuller Aumentado.
+* Transformação de uma Série Temporal.
+* **Modelo ARIMA**.
