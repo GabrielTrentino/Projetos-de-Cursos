@@ -1,4 +1,6 @@
+![02 - Machine Learning](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/02-MachineLearning.png)
 
+# Pasta 02 - Machine Learning (Alura):
 
 * **Primeiros Passos:**
   * [01 - Introdução à Machine Learning](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/02-MachineLearning/01_Introdu%C3%A7%C3%A3o_a_Machine_Learning.ipynb)
