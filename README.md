@@ -75,6 +75,7 @@ A pasta "03 - Data Science Na Prática (DSNP)" é resultado dos projetos realiza
   
 * **Módulo 4 - Machine Learning**
   * Notas de Aula - Módulo 04
+  * [Análise de Fraude em Cartões de Crédito](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/04_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
   
 * **Módulo 5 - Criando um Projeto de Data Science**
   * Notas de Aula - Módulo 05
@@ -90,7 +91,7 @@ A pasta "04 - Escola de Data Science" é resultado dos projetos realizados duran
 
 * [Aula 001: Séries Temporais - Parte 1.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula001_S%C3%A9riesTemporais.ipynb)
 * [Aula 002: Séries Temporais - Parte 2.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula002_S%C3%A9riesTemporais.ipynb)
-* Aula 003: Séries Temporais - Parte 3.
+* [Aula 003: Séries Temporais - Parte 3.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula003_S%C3%A9riesTemporais.ipynb)
 * Aula 004: Redes Neurais - Parte 1.
 
 ## **Dúvidas e Redes Sociais:**
