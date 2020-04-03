@@ -93,6 +93,7 @@ A pasta "04 - Escola de Data Science" é resultado dos projetos realizados duran
 * [Aula 002: Séries Temporais - Parte 2.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula002_S%C3%A9riesTemporais.ipynb)
 * [Aula 003: Séries Temporais - Parte 3.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula003_S%C3%A9riesTemporais.ipynb)
 * Aula 004: Redes Neurais - Parte 1.
+* Aula 005: Introdução ao Deep Learning.
 
 ## **Dúvidas e Redes Sociais:**
 O repositório aumentará o seu tamanho de acordo com as realizações dos cursos. E claro, aceito recomendações de cursos, livros ou vídeos! Qualquer duvida me chame no [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/).
