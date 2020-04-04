@@ -42,10 +42,10 @@ O Dataset utilizado foi disponibilizado pelo Professor e se refere à **Violênc
 
 * Revisão das funcionalidades do primeiro projeto.
 * Funções básicas do Pandas e Numpy:
-  * `.copy()` - 
-  * `.groupby()` - 
-  * `.groupby().sum()` - 
-  * `.dropna()` - 
+  * `.copy()` - Copia as informações presentes em um Data Frame.
+  * `.groupby()` - Agrupa as informações.
+  * `.groupby().sum()` - Soma as informações agrupadas.
+  * `.dropna()` - Retira valores nulos para linhas ou colunas.
 * Criação de novas variáveis.
 
 
@@ -53,7 +53,7 @@ O Dataset utilizado foi disponibilizado pelo Professor e se refere à **Violênc
 
 [LINK DO PROJETO](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/03_DataVisualization_Doen%C3%A7asCardiacas.ipynb)
 
-O Terceiro Módulo foi focado na Visualização de dados, para isso utilizamos os Data Set de Doenças Cardíacas utilizando dos seguintes gráficos:
+O Terceiro Módulo foi focado na Visualização de dados, criando gráficos e buscando a melhor forma visual para criar gráficos. Para isso, utilizamos dois Datasets nesse projeto: um obtido pelo Cleveland Clinic Foundation que continham diversas variáveis que poderiam auxiliar para a identificação de Doenças Cardiovasculares e o segundo Data set foi obtido pela Sociedade Brasileira de Cardiologia (SBC). Nessa aula vimos gráficos do tipo:
 
 * Barplot.
 * Scatterpllot.
@@ -65,3 +65,15 @@ O Terceiro Módulo foi focado na Visualização de dados, para isso utilizamos o
 
 [LINK DO PROJETO](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/04_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 
+Esse quarto modulo vimos técnicas e algoritmos de Machine Learning. E, para prever Fraudes em Cartões de Crédito, utilizamos algumas técnicas, tais como:
+
+* Divisão do Data Frame em X (variável independente) e y (variável dependente, ou o que queremos identificar).
+* `train_test_split` - Divisão do Data set em Treino e teste (Técnica Hold out, há outra chamada Cross Validate).
+* `.fit()` e `.predict()` - Treina e prevê com o modelo escolhido.
+* Random Under Sample.
+* Decision Tree Classifier.
+* Regressão Logística.
+* SVC.
+* KNN.
+* Matriz de Confusão.
+* Coeficiente de determinação.
