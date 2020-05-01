@@ -8,7 +8,7 @@ Esse README.md trará informações breve das aulas juntamente com os links de c
 
 ## Projeto 01 - Análise dos Dados do Airbnb - Rio de Janeiro:
 
-[LINK DO PROJETO](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/01_An%C3%A1lise_Explorat%C3%B3ria_AirBNB_(RIO).ipynb)
+[[LINK DO PROJETO]](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/01_An%C3%A1lise_Explorat%C3%B3ria_AirBNB_(RIO).ipynb) / [[LINK DO DATASET]](http://insideairbnb.com/get-the-data.html)
 
 Esse primeiro projeto é voltado para o básico da programação e da análise exploratória, pegamos um Dataset do [Inside Airbnb](http://insideairbnb.com/get-the-data.html) do Rio de Janeiro em que mostra os preços das diversas casas e apartamentos disponibilizados pelos anfitriões. Nesse projeto vimos o básico do Pandas e dos plots gráficos.
 
@@ -34,7 +34,7 @@ Esse primeiro projeto é voltado para o básico da programação e da análise e
 
 ## Projeto 02 - Análise da Violência no Rio de Janeiro:
 
-[LINK DO PROJETO](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/02_Viol%C3%AAncia_Rio.ipynb)
+[[LINK DO PROJETO]](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/02_Viol%C3%AAncia_Rio.ipynb) / [[LINK DO DATASET]](http://www.ispdados.rj.gov.br/estatistica.html)
 
 Durante o segundo modulo foi apresentado novas funcionalidades do Pandas juntamente com a revisão e aprofudamento de funções apresentados no primeiro projeto. O primeiro modulo foi focado no mercado de Data Science, enquanto que esse segundo Modulo trouxe novas aplicações que podem vir a ser utilizadas.
 
@@ -51,7 +51,7 @@ O Dataset utilizado foi disponibilizado pelo Professor e se refere à **Violênc
 
 ## Projeto 03 - Análise de Doenças Cardíacas:
 
-[LINK DO PROJETO](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/03_DataVisualization_Doen%C3%A7asCardiacas.ipynb)
+[[LINK DO PROJETO]](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/03_DataVisualization_Doen%C3%A7asCardiacas.ipynb) / [[LINK DO DATASET]](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
 
 O Terceiro Módulo foi focado na Visualização de dados, criando gráficos e buscando a melhor forma visual para criar gráficos. Para isso, utilizamos dois Datasets nesse projeto: um obtido pelo Cleveland Clinic Foundation que continham diversas variáveis que poderiam auxiliar para a identificação de Doenças Cardiovasculares e o segundo Data set foi obtido pela Sociedade Brasileira de Cardiologia (SBC). Nessa aula vimos gráficos do tipo:
 
@@ -63,7 +63,7 @@ O Terceiro Módulo foi focado na Visualização de dados, criando gráficos e bu
 
 ## Projeto 04 - Detecção de Fraudes em Cartões de Crédito:
 
-[LINK DO PROJETO](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/04_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
+[[LINK DO PROJETO]](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/04_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb) / [[LINK DO DATASET]](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 Esse quarto modulo vimos técnicas e algoritmos de Machine Learning. E, para prever Fraudes em Cartões de Crédito, utilizamos algumas técnicas, tais como:
 
