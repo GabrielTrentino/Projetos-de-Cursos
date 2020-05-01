@@ -64,29 +64,29 @@ A pasta "03 - Data Science Na Prática (DSNP)" é resultado dos projetos realiza
 O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree/master/03-DSNP/README.md) dessa pasta terá um resumo do que é passado nos cursos presentes nessa pasta.
 
 * **Módulo 1 - Introdução à Data Science**
-  * Notas de Aula - Módulo 01
+
   * [Análise Exploratória Airbnb Rio](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/01_An%C3%A1lise_Explorat%C3%B3ria_AirBNB_(RIO).ipynb)
   
 * **Módulo 2 - Manipulando os dados com Pandas**
-  * Notas de Aula - Módulo 02
+
   * [Análise Exploratória Violência Rio](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/02_Viol%C3%AAncia_Rio.ipynb)
   
 * **Módulo 3 - Visualizando Dados**
-  * Notas de Aula - Módulo 03
+
   * [Doenças Cardíacas - Data Visualization](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/03_DataVisualization_Doen%C3%A7asCardiacas.ipynb)
   
 * **Módulo 4 - Machine Learning**
-  * Notas de Aula - Módulo 04
+
   * [Análise de Fraude em Cartões de Crédito](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/04_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
   
 * **Módulo 5 - Criando um Projeto de Data Science**
-  * Notas de Aula - Módulo 05
+
   
 * **Módulo 6 - Deploy para Machine Learning**
-  * Notas de Aula - Módulo 06
+  * [Deploy para preço de imóveis de São Paulo](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/05_DeployML_imoveis_SaoPaulo.ipynb)
   
 * **Módulo 7 - Construindo Dashboards**
-  * Notas de Aula - Módulo 07
+
   
 ## **Pasta 04 - Escola de Data Science:**
 A pasta "04 - Escola de Data Science" é resultado dos projetos realizados durante as aulas da Escola de DataScience do professor [Carlos Melo](https://www.linkedin.com/in/carlosfab/). Essa Escola de Data Science nos apresenta informações mais aprofundadas sobre os assuntos de Data Science, sendo cada aula gravada à cada semana.
@@ -99,6 +99,10 @@ O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/
 * Aula 004: Redes Neurais - Parte 1.
 * Aula 005: Introdução ao Deep Learning.
 * Aula 006: Propagação de Redes Neurais.
+* Aula 007: Gardient Descent
+* Aula 008: TensorFlow
+* Aula 009: Classificação de Roupas 
+* Aula 010: Forecasting em Series Temporais com Prophet
 
 ## **Dúvidas e Redes Sociais:**
 O repositório aumentará o seu tamanho de acordo com as realizações dos cursos. E claro, aceito recomendações de cursos, livros ou vídeos! Qualquer duvida me chame no [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/).
