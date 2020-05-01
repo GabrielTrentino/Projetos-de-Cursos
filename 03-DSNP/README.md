@@ -77,3 +77,18 @@ Esse quarto modulo vimos técnicas e algoritmos de Machine Learning. E, para pre
 * KNN.
 * Matriz de Confusão.
 * Coeficiente de determinação.
+
+## Projeto 05 - Preço de Vendas de Imóveis de São Paulo:
+
+[[LINK DO PROJETO]](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/05_DeployML_imoveis_SaoPaulo.ipynb) / [[LINK DO DATASET]](https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019)
+
+O Quinto Módulo foi focado nas etapas da criação de um projeto de dados, mostrando a importância: da analise de dados, limpeza e construção de um modelo com a validação. Porém, o Projeto 05 foi só apresentado no Modulo 06, em que teve o enfoque no Deploy. Para esse projeto, utilizamos um Data Set disponibilizado no Kaggle voltado à informações de imóveis na cidade de São Paulo e buscamos prever um preço de imóvel para os dados que o usuario colocasse na página web desenvolvida. 
+
+Futuramente, esse projeto desse curso estará disponível pelo [link](https://github.com/GabrielTrentino/Competicoes/blob/master/Pre%C3%A7o_imoveis_S%C3%A3o_Paulo.ipynb) para que possa ser vistos as análises. Observe que o modelo foi elaborado através do XGBoost, mas por dificuldades de instalação no Pycharm, decidi utilizar Regressão Linea. Com isso, esse projeto aborda:
+
+* Links uteis para HTML:
+  * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+  * [Bootstrap 4 Snipets](https://startbootstrap.com/snippets/full-image-header/)
+* Limpeza de Dados.
+* Elaboração do modelo.
+* Exportação de Dados.
