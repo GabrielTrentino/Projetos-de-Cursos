@@ -1,0 +1,344 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <!-- Stilo CSS-->
+    <style>
+        :root {
+          --input-padding-x: 1.5rem;
+          --input-padding-y: 0.75rem;
+        }
+
+        .login,
+        .image {
+          min-height: 100vh;
+        }
+
+        .bg-image {
+          background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/S%C3%A3o_Paulo-SP_-_Brasil_-_Zona_Leste.jpg/800px-S%C3%A3o_Paulo-SP_-_Brasil_-_Zona_Leste.jpg');
+          background-size: cover;
+          background-position: center;
+        }
+
+        .login-heading {
+          font-weight: 300;
+        }
+
+        .btn-login {
+          font-size: 0.9rem;
+          letter-spacing: 0.05rem;
+          padding: 0.75rem 1rem;
+          border-radius: 2rem;
+        }
+
+        .form-label-group {
+          position: relative;
+          margin-bottom: 1rem;
+        }
+
+        .form-label-group>input,
+        .form-label-group>label {
+          padding: var(--input-padding-y) var(--input-padding-x);
+          height: auto;
+          border-radius: 2rem;
+        }
+
+        .form-label-group>label {
+          position: absolute;
+          top: 0;
+          left: 0;
+          display: block;
+          width: 100%;
+          margin-bottom: 0;
+          /* Override default `<label>` margin */
+          line-height: 1.5;
+          color: #495057;
+          cursor: text;
+          /* Match the input under the label */
+          border: 1px solid transparent;
+          border-radius: .25rem;
+          transition: all .1s ease-in-out;
+        }
+
+        .form-label-group input::-webkit-input-placeholder {
+          color: transparent;
+        }
+
+        .form-label-group input:-ms-input-placeholder {
+          color: transparent;
+        }
+
+        .form-label-group input::-ms-input-placeholder {
+          color: transparent;
+        }
+
+        .form-label-group input::-moz-placeholder {
+          color: transparent;
+        }
+
+        .form-label-group input::placeholder {
+          color: transparent;
+        }
+
+        .form-label-group input:not(:placeholder-shown) {
+          padding-top: calc(var(--input-padding-y) + var(--input-padding-y) * (2 / 3));
+          padding-bottom: calc(var(--input-padding-y) / 3);
+        }
+
+        .form-label-group input:not(:placeholder-shown)~label {
+          padding-top: calc(var(--input-padding-y) / 3);
+          padding-bottom: calc(var(--input-padding-y) / 3);
+          font-size: 12px;
+          color: #777;
+        }
+
+        /* Fallback for Edge
+        -------------------------------------------------- */
+
+        @supports (-ms-ime-align: auto) {
+          .form-label-group>label {
+            display: none;
+          }
+          .form-label-group input::-ms-input-placeholder {
+            color: #777;
+          }
+        }
+
+        /* Fallback for IE
+        -------------------------------------------------- */
+
+        @media all and (-ms-high-contrast: none),
+        (-ms-high-contrast: active) {
+          .form-label-group>label {
+            display: none;
+          }
+          .form-label-group input:-ms-input-placeholder {
+            color: #777;
+          }
+        }
+    </style>
+
+  </head>
+  <body>
+  <div class="container-fluid">
+  <div class="row no-gutter">
+    <div class="d-none d-md-flex col-md-4 col-lg-6 bg-image"></div>
+    <div class="col-md-8 col-lg-6">
+      <div class="login d-flex align-items-center py-5">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-9 col-lg-8 mx-auto">
+              <h3 class="login-heading mb-4">Preço de Imóveis em São Paulo</h3>
+                <form action="{{ url_for('main') }}" method = 'POST'>
+
+                  <div class="form-row">
+                    <div class="form-group col-md-12">
+                      <label for="District">Escolha o Bairro</label>
+                      <select id="District" class="form-control" name = 'District'>
+                        <option selected>Alto de Pinheiros</option>
+                        <option>Anhanguera</option>
+                        <option>Aricanduva</option>
+                        <option>Artur Alvim</option>
+                        <option>Barra Funda</option>
+                        <option>Bela Vista</option>
+                        <option>Belém</option>
+                        <option>Bom Retiro</option>
+                        <option>Brasilândia</option>
+                        <option>Brooklin</option>
+                        <option>Brás</option>
+                        <option>Butantã</option>
+                        <option>Cachoeirinha</option>
+                        <option>Cambuci</option>
+                        <option>Campo Belo</option>
+                        <option>Campo Grande</option>
+                        <option>Campo Limpo</option>
+                        <option>Cangaíba</option>
+                        <option>Capão Redondo</option>
+                        <option>Carrão</option>
+                        <option>Casa Verde</option>
+                        <option>Cidade Ademar</option>
+                        <option>Cidade Dutra</option>
+                        <option>Cidade Líder</option>
+                        <option>Cidade Tiradentes</option>
+                        <option>Consolação</option>
+                        <option>Cursino</option>
+                        <option>Ermelino Matarazzo</option>
+                        <option>Freguesia do Ó</option>
+                        <option>Grajaú</option>
+                        <option>Guaianazes</option>
+                        <option>Iguatemi</option>
+                        <option>Ipiranga</option>
+                        <option>Itaim Bibi</option>
+                        <option>Itaim Paulista</option>
+                        <option>Itaquera</option>
+                        <option>Jabaquara</option>
+                        <option>Jaguaré</option>
+                        <option>Jaraguá</option>
+                        <option>Jardim Helena</option>
+                        <option>Jardim Paulista</option>
+                        <option>Jardim São Luis</option>
+                        <option>Jardim Ângela</option>
+                        <option>Jaçanã</option>
+                        <option>José Bonifácio</option>
+                        <option>Lajeado</option>
+                        <option>Lapa</option>
+                        <option>Liberdade</option>
+                        <option>Limão</option>
+                        <option>Mandaqui</option>
+                        <option>Medeiros</option>
+                        <option>Moema</option>
+                        <option>Mooca</option>
+                        <option>Morumbi</option>
+                        <option>Pari</option>
+                        <option>Parque do Carmo</option>
+                        <option>Pedreira</option>
+                        <option>Penha</option>
+                        <option>Perdizes</option>
+                        <option>Perus</option>
+                        <option>Pinheiros</option>
+                        <option>Pirituba</option>
+                        <option>Ponte Rasa</option>
+                        <option>Raposo Tavares</option>
+                        <option>República</option>
+                        <option>Rio Pequeno</option>
+                        <option>Sacomã</option>
+                        <option>Santa Cecília</option>
+                        <option>Santana</option>
+                        <option>Santo Amaro</option>
+                        <option>Sapopemba</option>
+                        <option>Saúde</option>
+                        <option>Socorro</option>
+                        <option>São Domingos</option>
+                        <option>São Lucas</option>
+                        <option>São Mateus</option>
+                        <option>São Miguel</option>
+                        <option>São Rafael</option>
+                        <option>Sé</option>
+                        <option>Tatuapé</option>
+                        <option>Tremembé</option>
+                        <option>Tucuruvi</option>
+                        <option>Vila Andrade</option>
+                        <option>Vila Curuçá</option>
+                        <option>Vila Formosa</option>
+                        <option>Vila Guilherme</option>
+                        <option>Vila Jacuí</option>
+                        <option>Vila Leopoldina</option>
+                        <option>Vila Madalena</option>
+                        <option>Vila Maria</option>
+                        <option>Vila Mariana</option>
+                        <option>Vila Matilde</option>
+                        <option>Vila Olimpia</option>
+                        <option>Vila Prudente</option>
+                        <option>Vila Sônia</option>
+                        <option>Água Rasa</option>
+                      </select>
+                    </div>
+                  </div>
+
+                  <div class="form-row">
+                    <div class="form-group col-md-6">
+                      <label for="Area">Área</label>
+                      <input type="number" class="form-control" id="Area" placeholder="em m²" name = 'Area'>
+                    </div>
+                    <div class="form-group col-md-6">
+                      <label for="Condo">Taxa de Condomínio</label>
+                      <input type="number" class="form-control" id="Condo" placeholder="em R$" name = 'Condo'>
+                    </div>
+                  </div>
+
+                  <div class="form-row">
+                    <div class="form-group col-md-6">
+                      <label for="Rooms">Quartos</label>
+                      <select id="Rooms" class="form-control" name = 'Rooms'>
+                        <option selected>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>5</option>
+                        <option>6</option>
+                      </select>
+                    </div>
+                    <div class="form-group col-md-6">
+                      <label for="Toilets">Banheiros</label>
+                      <select id="Toilets" class="form-control" name = 'Toilets'>
+                        <option selected>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                        <option>5</option>
+                      </select>
+                    </div>
+                  </div>
+
+                  <div class="form-row">
+                    <div class="form-group col-md-6">
+                      <label for="Suites">Suites</label>
+                      <select id="Suites" class="form-control" name = 'Suites'>
+                        <option selected>0</option>
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                      </select>
+                    </div>
+                    <div class="form-group col-md-6">
+                      <label for="Parking">Vagas de Garagem</label>
+                      <select id="Parking" class="form-control" name = 'Parking'>
+                        <option selected>0</option>
+                        <option>1</option>
+                        <option>2</option>
+                        <option>3</option>
+                        <option>4</option>
+                      </select>
+                    </div>
+                  </div>
+
+                  <div class="form-group row">
+                    <div class="col-sm-2">Outros:</div>
+                    <div class="col-sm-10">
+                      <div class="form-check form-check-inline col-sm-5">
+                        <input class="form-check-input" value="1" type="checkbox" id="New" name = 'New'>
+                        <label class="form-check-label" for="New">
+                          Novo
+                        </label>
+                      </div>
+                      <div class="form-check form-check-inline">
+                        <input class="form-check-input" value="1" type="checkbox" id="Furnished" name = 'Furnished'>
+                        <label class="form-check-label" for="Furnished">
+                          Mobilhado
+                        </label>
+                      </div>
+                      <div class="form-check form-check-inline col-sm-5">
+                        <input class="form-check-input" value="1" type="checkbox" id="Elevator" name = 'Elevator'>
+                        <label class="form-check-label" for="Elevator">
+                          Elevador
+                        </label>
+                      </div>
+                      <div class="form-check form-check-inline">
+                        <input class="form-check-input" value="1" type="checkbox" id="Swimming Pool" name = 'Swimming Pool'>
+                        <label class="form-check-label" for="Swimming Pool">
+                          Piscina
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+                    <button class="btn btn-lg btn-primary btn-block btn-login text-uppercase font-weight-bold mb-2" type="submit">Calcular</button>
+                {% if valor_venda %}
+                    <h2> Preço: {{ 'R$ {:,.2f}'.format(valor_venda) }} </h2>
+                {% endif %}
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  </body>
+</html>
