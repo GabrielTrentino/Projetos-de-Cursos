@@ -68,7 +68,7 @@ Essa aula foi extreada no dia 12 de março de 2020 às 21h pelo. Nessa terceira 
 
 [LINK DO NOTEBOOK](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula005_Introducao_DeepLearning.ipynb) / [LINK DA AULA](https://sigmoidal.memberkit.com.br/2565-escola-de-data-science/159072-aula-005-introducao-ao-deep-learning)
 
-## **Aula006 - Propragação em Redes Neurais (usando NumPy) **
+## **Aula006 - Propragação em Redes Neurais (usando NumPy)**
 
 [LINK DO NOTEBOOK]() / [LINK DA AULA](https://sigmoidal.memberkit.com.br/2565-escola-de-data-science/166571-aula-006-propagacao-em-redes-neurais-usando-numpy)
 
