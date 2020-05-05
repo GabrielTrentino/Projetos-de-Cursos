@@ -96,8 +96,8 @@ O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/
 * [Aula 001: Séries Temporais - Parte 1.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula001_S%C3%A9riesTemporais.ipynb)
 * [Aula 002: Séries Temporais - Parte 2.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula002_S%C3%A9riesTemporais.ipynb)
 * [Aula 003: Séries Temporais - Parte 3.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula003_S%C3%A9riesTemporais.ipynb)
-* Aula 004: Redes Neurais - Parte 1.
-* Aula 005: Introdução ao Deep Learning.
+* [Aula 004: Redes Neurais - Parte 1.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula004_RedesNeurais.ipynb)
+* [Aula 005: Introdução ao Deep Learning.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula005_Introducao_DeepLearning.ipynb)
 * Aula 006: Propagação de Redes Neurais.
 * Aula 007: Gardient Descent
 * Aula 008: TensorFlow
