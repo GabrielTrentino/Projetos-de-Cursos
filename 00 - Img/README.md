@@ -11,7 +11,7 @@ Essa pasta é voltado às imagens das outras pastas, infelizmente não há mais 
 
 ## Pasta 02 - Machine Learning (Alura):
 ![02](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/02-MachineLearning.png)
-![](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/01-DataScienceBanner.png?raw=true)
+![](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/02-MachineLearningBanner.png?raw=true)
 
 ## Pasta 03 - Data Science Na Prática:
 ![03](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/03-DataScienceNaPratica.png)
