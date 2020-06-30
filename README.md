@@ -8,6 +8,7 @@ Esse repositório do Github tem como a finalidade de armazenar todos os projetos
 Na pasta ["00 - Img"](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree/master/00%20-%20Img) temos as imagens que serão utilizadas nos README.md's de outras pastas. Essa pasta possui a única função de organizar e facilitar a busca nas outras pastas, por isso os documentos não devem ser misturados.
 
 ## **Pasta 01 - Data Science:**
+![](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/01-DataScienceBanner.png?raw=true)
 A pasta ["01 - Data Science"](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree/master/01-DataScience) é resultado dos estudos dos cursos online disponibilizado pela [Alura](https://www.alura.com.br/cursos-online-data-science/data-science). Essa formação apresenta informações gerais e básicas para o ingresso em Data Science, tais como: análise de dados, estatística, modelagem e visualização na prática.
 
 O termo Data Science surge da junção de duas áreas: Data Mining (Mineração de Dados) com Computer Science (Ciências da Computação). De forma enxuta, é uma ciência que capta e processa um grande volume de informações (dados) para gerar novas visões e percepções do objeto estudado.
@@ -31,6 +32,7 @@ O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/
   * 08 - Data Science: Introdução a testes estatísticos com Python
 
 ## **Pasta 02 - Machine Learning:**
+![](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/02-MachineLearningBanner.png?raw=true)
 A pasta ["02 - Machine Learning"](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree/master/02-MachineLearning) é resultado dos estudos dos cursos online disponibilizado pela [Alura](https://www.alura.com.br/formacao-machine-learning). Essa formação apresenta informações gerais e básicas para o ingresso em Machine Learning, tais como: classificação de clientes, processamento de linguagem natural (NLP), Deep Learning e validação e otimização de modelos.
 
 Machine Learning ou Aprendizado de Máquina é uma sub-área do Data Science em que temos por objetivo analisar e avaliar comportamentos do passado para conseguir predizer ou classificar comportamentos futuros. O Machine Learning utiliza de algoritmos supervisionados, não supervisionados ou recorrentes para prever o comportamento de seu Dataset.
