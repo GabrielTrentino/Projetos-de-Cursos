@@ -61,6 +61,7 @@ O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/
   * [09 - Machine Learning parte 2: Otimização com exploração aleatória](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/02-MachineLearning/09_Otimiza%C3%A7%C3%A3o_de_Modelos_2.ipynb)
 
 ## **Pasta 03 - Data Science Na Prática (DSNP):**
+![](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/03-DSNPbanner.png?raw=true)
 A pasta "03 - Data Science Na Prática (DSNP)" é resultado dos projetos realizados durante o curso Data Science Na Prática do professor [Carlos Melo](https://www.linkedin.com/in/carlosfab/). Nesse curso é passado conceitos básicos de Pandas, Plot Gráficos, estruturação de projetos, Machine Learning e Deploy. O site para acesso do curso está disponibilizado no [link](https://datasciencenapratica.club.hotmart.com/login).
 
 O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree/master/03-DSNP/README.md) dessa pasta terá um resumo do que é passado nos cursos presentes nessa pasta.
@@ -91,6 +92,7 @@ O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree/master/
 
   
 ## **Pasta 04 - Escola de Data Science:**
+![](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/04-EscolaBanner.png?raw=true)
 A pasta "04 - Escola de Data Science" é resultado dos projetos realizados durante as aulas da Escola de DataScience do professor [Carlos Melo](https://www.linkedin.com/in/carlosfab/). Essa Escola de Data Science nos apresenta informações mais aprofundadas sobre os assuntos de Data Science, sendo cada aula gravada à cada semana.
 
 O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/README.md) estará descrito o que foi visto resumidamente em cada aula, juntamente com a data de extreia.
