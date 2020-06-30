@@ -11,7 +11,7 @@ Na pasta ["00 - Img"](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree
 ![](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/01-DataScienceBanner.png?raw=true)
 A pasta ["01 - Data Science"](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree/master/01-DataScience) é resultado dos estudos dos cursos online disponibilizado pela [Alura](https://www.alura.com.br/cursos-online-data-science/data-science). Essa formação apresenta informações gerais e básicas para o ingresso em Data Science, tais como: análise de dados, estatística, modelagem e visualização na prática.
 
-O termo Data Science surge da junção de duas áreas: Data Mining (Mineração de Dados) com Computer Science (Ciências da Computação). De forma enxuta, é uma ciência que capta e processa um grande volume de informações (dados) para gerar novas visões e percepções do objeto estudado.
+O termo Data Science surge da junção de duas áreas: *Data Mining* (Mineração de Dados) com *Computer Science* (Ciências da Computação). De forma enxuta, é uma **ciência que capta e processa um grande volume de informações (dados) para gerar novas visões e percepções do objeto estudado.**
 
 O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/01-DataScience/README.md) dessa pasta terá um resumo do que é passado nos cursos presentes nessa pasta.
 
@@ -35,7 +35,7 @@ O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/
 ![](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/02-MachineLearningBanner.png?raw=true)
 A pasta ["02 - Machine Learning"](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree/master/02-MachineLearning) é resultado dos estudos dos cursos online disponibilizado pela [Alura](https://www.alura.com.br/formacao-machine-learning). Essa formação apresenta informações gerais e básicas para o ingresso em Machine Learning, tais como: classificação de clientes, processamento de linguagem natural (NLP), Deep Learning e validação e otimização de modelos.
 
-Machine Learning ou Aprendizado de Máquina é uma sub-área do Data Science em que temos por objetivo analisar e avaliar comportamentos do passado para conseguir predizer ou classificar comportamentos futuros. O Machine Learning utiliza de algoritmos supervisionados, não supervisionados ou recorrentes para prever o comportamento de seu Dataset.
+*Machine Learning* ou Aprendizado de Máquina é uma sub-área do Data Science em que temos por objetivo **analisar e avaliar comportamentos do passado para conseguir predizer ou classificar comportamentos futuros**. *O Machine Learning* utiliza de algoritmos supervisionados, não supervisionados ou recorrentes para prever o comportamento de seu Dataset.
 
 Algortimos supervisionados possuem uma classe (ou variável discriminante) que delimita se a Instância (entrada de valores ou simplesmente a linha do Dataset) é pertecente ou não à um grupo. Isto é, os algortimos supervisionados necessitam que o Dataset contenha uma variável que determine se uma pessoa é boa compradora ou não (1 ou 0, respectivamente), por exemplo.
 
@@ -62,9 +62,9 @@ O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/
 
 ## **Pasta 03 - Data Science Na Prática (DSNP):**
 ![](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/03-DSNPbanner.png?raw=true)
-A pasta "03 - Data Science Na Prática (DSNP)" é resultado dos projetos realizados durante o curso Data Science Na Prática do professor [Carlos Melo](https://www.linkedin.com/in/carlosfab/). Nesse curso é passado conceitos básicos de Pandas, Plot Gráficos, estruturação de projetos, Machine Learning e Deploy. O site para acesso do curso está disponibilizado no [link](https://datasciencenapratica.club.hotmart.com/login).
+A pasta "03 - Data Science Na Prática (DSNP)" é resultado dos projetos realizados durante o curso Data Science Na Prática do professor [Carlos Melo](https://www.linkedin.com/in/carlosfab/). Nesse curso é passado conceitos básicos de Pandas, Plot Gráficos, estruturação de projetos, Machine Learning e Deploy. O site para acesso do curso está disponibilizado no [link](https://sigmoidal.memberkit.com.br/).
 
-O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree/master/03-DSNP/README.md) dessa pasta terá um resumo do que é passado nos cursos presentes nessa pasta.
+O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree/master/03-DSNP/README.md) dessa pasta terá o resumo do curso juntamente com os projetos realizados durante o curso.
 
 * **Módulo 1 - Introdução à Data Science**
 
