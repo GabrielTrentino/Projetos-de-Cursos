@@ -8,6 +8,8 @@ Esse README.md trará informações breve das aulas juntamente com os links de c
 
 ## **GUIA001 - Séries Temporais:**
 
+[LINK DO NOTEBOOK](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Guia001_TimeSeries.ipynb)
+
 Esse guia foi elaborado com o objetivo de resumir e sintetizar o que foi passado nas três aulas da Escola de Data Science (ep. 1, ep.2 e ep.3) cujo o tema foi: Series Temporais. Nesse arquivo é encontrado diversos metodos e testes estatísticos para análises temporais.
 
 ### **Aula 001 - Séries Temporais - Parte 1: Análise Exploratória:**
