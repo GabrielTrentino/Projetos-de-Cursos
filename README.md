@@ -93,20 +93,12 @@ O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/tree/master/
   
 ## **Pasta 04 - Escola de Data Science:**
 ![](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/00%20-%20Img/04-EscolaBanner.png?raw=true)
-A pasta "04 - Escola de Data Science" é resultado dos projetos realizados durante as aulas da Escola de DataScience do professor [Carlos Melo](https://www.linkedin.com/in/carlosfab/). Essa Escola de Data Science nos apresenta informações mais aprofundadas sobre os assuntos de Data Science, sendo cada aula gravada à cada semana.
+A pasta "04 - Escola de Data Science" é resultado dos projetos realizados durante as aulas da Escola de Data Science do professor [Carlos Melo](https://www.linkedin.com/in/carlosfab/). A Escola de Data Science apresenta informações mais aprofundadas sobre alguns assuntos que abordam o Data Science, tendo cada aula gravada à cada semana. Alguns notebooks foram disponibilizados pelo professor pelo [link](https://github.com/carlosfab/escola-data-science).
 
-O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/README.md) estará descrito o que foi visto resumidamente em cada aula, juntamente com a data de extreia.
+O [README.md](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/README.md) possui um resumo/guia do que foi passado nas aulas.
 
-* [Aula 001: Séries Temporais - Parte 1.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula001_S%C3%A9riesTemporais.ipynb)
-* [Aula 002: Séries Temporais - Parte 2.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula002_S%C3%A9riesTemporais.ipynb)
-* [Aula 003: Séries Temporais - Parte 3.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula003_S%C3%A9riesTemporais.ipynb)
-* [Aula 004: Redes Neurais - Parte 1.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula004_RedesNeurais.ipynb)
-* [Aula 005: Introdução ao Deep Learning.](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula005_Introducao_DeepLearning.ipynb)
-* Aula 006: Propagação de Redes Neurais.
-* Aula 007: Gardient Descent
-* Aula 008: TensorFlow
-* Aula 009: Classificação de Roupas 
-* Aula 010: Forecasting em Series Temporais com Prophet
+* [Guia 01: Time Series](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Guia01_TimeSeries.ipynb)
+
 
 ## **Dúvidas e Redes Sociais:**
 O repositório aumentará o seu tamanho de acordo com as realizações dos cursos. E claro, aceito recomendações de cursos, livros ou vídeos! Qualquer duvida me chame no [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/).
