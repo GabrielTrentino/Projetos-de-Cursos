@@ -2,11 +2,11 @@
 
 # **Pasta 04 - Escola de Data Science:**
 
-Nessa pasta estarão presentes todas as aulas da Escola de Data Science juntamente com as suas anotações e informações relevantes sobre a aula. A Escola de Data Science é ministrada pelo professor [Carlos Melo](https://www.linkedin.com/in/carlosfab/) pela plataforma [Escola de Data Science](https://escola.sigmoidal.ai/).
+Nessa pasta estão presentes os guias e projetos da aulas da Escola de Data Science juntamente com as suas anotações e informações relevantes sobre a aula. A Escola de Data Science é ministrada pelo professor [Carlos Melo](https://www.linkedin.com/in/carlosfab/) pela plataforma [Escola de Data Science](https://escola.sigmoidal.ai/).
 
 Esse README.md trará informações breve das aulas juntamente com os links de cada Notebook.
 
-## **GUIA001 - Séries Temporais:**
+## **GUIA 01 - Séries Temporais:**
 
 [LINK DO NOTEBOOK](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Guia001_TimeSeries.ipynb)
 
@@ -60,21 +60,27 @@ Essa aula foi extreada no dia 12 de março de 2020 às 21h pelo. Nessa terceira 
 * Transformação de uma Série Temporal.
 * **Modelo ARIMA**.
 
-## **Aula 004 - Redes Neurais**
+## **GUIA 02 - Redes Neurais:**
 
-## **Aula 005 - Introdução a Deep Learning** 
+Em construção
 
-## **Aula006 - Propragação em Redes Neurais (usando NumPy)**
+### Aula 004 - Redes Neurais
 
-## **Aula007 - Gradient Descent**
+### Aula 005 - Introdução a Deep Learning** 
 
-## **Aula008 - Tensforflow**
+### Aula 006 - Propragação em Redes Neurais (usando NumPy)
 
-## **Aula009 - Classificiação de Roupas usando Deep Learning**
+### Aula 007 - Gradient Descent
 
-## **Aula010 - Forecasting em Séries Temporais com Prophet**
+### Aula 008 - Tensforflow
 
+## **PROJETO 01 - Deep Learning:**
 
+Em Construção
 
+### Aula 009 - Classificiação de Roupas usando Deep Learning
 
-Qualquer duvida ou sugestão, encaminhe uma mensagem para o meu [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/)
+### Aula 010 - Forecasting em Séries Temporais com Prophet
+
+## **Dúvidas e Redes Sociais:**
+O repositório aumentará o seu tamanho de acordo com as realizações dos cursos. E claro, aceito recomendações de cursos, livros ou vídeos! Qualquer duvida me chame no [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/).
