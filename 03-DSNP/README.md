@@ -87,9 +87,13 @@ Esse quarto modulo vimos técnicas e algoritmos de Machine Learning. E, para pre
 
 [[LINK DO PROJETO]](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/05_DeployML_imoveis_SaoPaulo.ipynb) / [[LINK DO DATASET]](https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019)
 
-O Quinto Módulo foi focado nas etapas da criação de um projeto de dados, mostrando a importância: da analise de dados, limpeza e construção de um modelo com a validação. Porém, o Projeto 05 foi só apresentado no Modulo 06, em que teve o enfoque no Deploy. Para esse projeto, utilizamos um Data Set disponibilizado no Kaggle voltado à informações de imóveis na cidade de São Paulo e buscamos prever um preço de imóvel para os dados que o usuario colocasse na página web desenvolvida. 
+O Quinto Módulo foi focado nas etapas da criação de um projeto de dados, mostrando a importância: da analise de dados, limpeza e construção de um modelo com a validação. Porém, o Projeto 05 foi só apresentado no Modulo 06, em que teve o enfoque no Deploy. O [HTML](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/05%20-%20Template%20-%20home.html) e o código em [Python](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/05%20-%20Webapp.py) estão disponíveis nesse repositório. Os códigos desenvolvidos tanto HTML quanto no Python **não são a mesma resolução que a do professor.**
 
-Futuramente, esse projeto desse curso estará disponível pelo [link](https://github.com/GabrielTrentino/Competicoes/blob/master/Pre%C3%A7o_imoveis_S%C3%A3o_Paulo.ipynb) para que possa ser vistos as análises. Observe que o modelo foi elaborado através do XGBoost, mas por dificuldades de instalação no Pycharm, foi utilizado a Regressão Linear Multipla. Nesse projeto é utilizado conceitos de HTML e foram utilizados o Bootstrap para auxiliar e outros como:
+Para esse projeto, utilizamos um Data Set disponibilizado no Kaggle voltado à informações de **imóveis na cidade de São Paulo** e buscamos prever um preço de imóvel para os dados que o usuario colocasse na página web desenvolvida. 
+
+![](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/03-DSNP/00%20-%20Imagens/05-TelaWebAppSP.png?raw=true)
+
+As análises desse notebook foram realizadas em outro notebook, disponível pelo [link](https://github.com/GabrielTrentino/Competicoes/blob/master/Pre%C3%A7o_imoveis_S%C3%A3o_Paulo.ipynb). Observe que o modelo foi elaborado através do XGBoost, mas por dificuldades de instalação no Pycharm, foi utilizado a Regressão Linear Multipla. Nesse projeto é utilizado do HTML para a estruturação (sendo utilizado o Bootstrap para auxiliar) e outros como:
 
 * Links uteis para HTML:
   * [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
@@ -97,3 +101,6 @@ Futuramente, esse projeto desse curso estará disponível pelo [link](https://gi
 * Limpeza de Dados.
 * Elaboração do modelo.
 * Exportação de Dados.
+
+## **Dúvidas e Redes Sociais:**
+O repositório aumentará o seu tamanho de acordo com as realizações dos cursos. E claro, aceito recomendações de cursos, livros ou vídeos! Qualquer duvida me chame no [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/).
