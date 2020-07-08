@@ -82,5 +82,13 @@ Em Construção
 
 ### Aula 010 - Forecasting em Séries Temporais com Prophet
 
+## **Aula 011 - Web Scrapping (Scrapy)**
+
+Nessa aula foi elaborado um Cralwer que obtem as frases e autores da página [Quotes to Scrape](http://quotes.toscrape.com/) e para seu funcionamento devido ele precisa instalar e importar as bibliotecas do seu ambiente virtual. O exercício resolvido está disponível pelo [link](https://github.com/GabrielTrentino/Projetos-de-Cursos/blob/master/04-EscolaDataScience/Aula011-WebScrapping-quotes.rar), em que o arquivo `quotes_spider.py` é responsável pela informação dos dados. Para rodar o programa é necessário acessar a pasta no terminal é rodar o código:
+
+`scrapy crawl spider -o quotes.json`
+
+Esse command line savará os resultados em um arquivo `.json`.
+
 ## **Dúvidas e Redes Sociais:**
 O repositório aumentará o seu tamanho de acordo com as realizações dos cursos. E claro, aceito recomendações de cursos, livros ou vídeos! Qualquer duvida me chame no [LinkedIn](https://www.linkedin.com/in/gabriel-trentino-froes-415558144/).
