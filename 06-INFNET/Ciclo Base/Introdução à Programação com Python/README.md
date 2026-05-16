@@ -14,7 +14,7 @@ _A descrição desta disciplina será preenchida aqui._
 |----------|-----------------|
 | [Teste de Performance - 1](./Teste%20de%20Performance%20-%201.ipynb) | Primeiro teste de performance: fundamentos de Python — comentários, `print`, variáveis, fluxo IPO, tipos (`int`, `float`, `bool`), operações aritméticas e operadores `//`, `%` e `round` em cenários de logística, finanças e folha de pagamento (16 exercícios). |
 | [Teste de Performance - 2](./Teste%20de%20Performance%20-%202.ipynb) | Segundo teste de performance: strings e entrada do usuário — textos multilinha, f-strings, concatenação, repetição de caracteres, métodos de string, `input`, `len`, conversões numéricas e formatação de saída (16 exercícios). |
-| [Teste de Performance - 3](./Teste%20de%20Performance%20-%203.ipynb) | Terceiro teste de performance / avaliação integrada: estruturas de decisão e repetição, listas, módulos `math` e `random`, validações e projetos aplicados (16 exercícios — mesmo conteúdo do Assessment). |
+| [Teste de Performance - 3](./Teste%20de%20Performance%20-%203.ipynb) | Terceiro teste de performance: estruturas condicionais (`if`, `elif`, `else`) — comparações, operadores lógicos (`and`, `or`), múltiplas faixas de decisão e condicionais aninhadas em cenários de e-commerce, saúde, logística, games, clima, compatibilidade sanguínea e triagem KYC (16 exercícios). |
 | [Assessment](./Assessment.ipynb) | Avaliação final da disciplina: consolida condicionais, laços, listas, simulação Monte Carlo, validação de CPF, juros compostos e mini-jogo em grade no terminal (16 exercícios). |
 
 ---
@@ -108,4 +108,5 @@ Síntese do que aparece nos notebooks acima, útil como “cola” da disciplina
 |----------|----------------|
 | TP1 | Sintaxe básica, tipos, operadores e aritmética |
 | TP2 | Strings, `input` e formatação de texto |
-| TP3 / Assessment | Condicionais, laços, listas e bibliotecas |
+| TP3 | Condicionais (`if` / `elif` / `else`), operadores lógicos e decisões aninhadas |
+| Assessment | Laços, listas, funções, módulos `math`/`random` e projetos integrados |
