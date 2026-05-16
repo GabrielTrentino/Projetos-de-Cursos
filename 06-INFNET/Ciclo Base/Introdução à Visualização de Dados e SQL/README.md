@@ -91,3 +91,15 @@ Síntese do que aparece nos materiais atuais da pasta.
 | TP2 | Dashboards interativos |
 | TP3 | SQL consultivo no cenário TechStore (Deepnote) |
 | Assessment | Looker Studio + SQL integrado (filmes, RH, mercado) |
+
+---
+
+## TODO — documentar enunciados
+
+Registrar aqui (ou em seções dedicadas abaixo de cada material) o **enunciado completo** de cada exercício, extraído dos PDFs e do notebook.
+
+- [ ] **TP1** — transcrever enunciados e links dos exercícios do PDF
+- [ ] **TP2** — transcrever enunciados (conexão direta, dashboards interativos, permissões)
+- [ ] **TP3** — documentar os 16 exercícios SQL (contexto, tarefa, entrada e saída) a partir do notebook
+- [ ] **Assessment** — documentar exercícios 1–4 (Looker Studio) e 5–16 (SQL: `filmes`, `funcionarios`, `produtos_mercado`) a partir do PDF
+- [ ] Atualizar o [Índice por material](#índice-por-material) com tabela por exercício (nº, enunciado resumido, link/arquivo)
